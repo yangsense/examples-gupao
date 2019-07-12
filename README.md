@@ -1,2 +1,9 @@
-# examples-gupao
-gupao-学习笔记
+# gupao-笔记
+
+
+### 设计模式
+
+工厂模式
+
+单例模式
+
